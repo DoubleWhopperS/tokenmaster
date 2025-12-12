@@ -1,0 +1,10 @@
+{
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "API_KEY": "@api_key",
+    "API_BASE": "@api_base"
+  },
+  "envPrefix": "NEXT_PUBLIC_"
+}

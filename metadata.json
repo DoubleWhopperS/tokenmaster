@@ -1,0 +1,5 @@
+{
+  "name": "TokenMaster",
+  "description": "A professional token and character counter optimized for LLM developers. Features precise Gemini token counting via API and estimations for other mainstream models.",
+  "requestFramePermissions": []
+}
