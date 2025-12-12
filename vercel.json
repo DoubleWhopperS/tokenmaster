@@ -1,10 +1,5 @@
 {
-  "buildCommand": "pnpm run build",
+  "buildCommand": "pnpm install && pnpm run build",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "env": {
-    "API_KEY": "@api_key",
-    "API_BASE": "@api_base"
-  },
-  "envPrefix": "NEXT_PUBLIC_"
+  "framework": "vite"
 }
